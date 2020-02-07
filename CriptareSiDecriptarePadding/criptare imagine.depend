@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1545940983 source:d:\informatica\proiecte\manipulare de imagini\criptare imagine\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+
+1546171447 source:d:\informatica\proiecte\manipulare de imagini\citire si afisare cu padding\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdint.h>
+

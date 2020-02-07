@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1546442724 source:d:\informatica\proiecte\manipulare de imagini\pattern matching\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+	<string.h>
+	<math.h>
+

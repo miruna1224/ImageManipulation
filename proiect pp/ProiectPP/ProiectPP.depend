@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1546430219 source:d:\informatica\proiecte\manipulare de imagini\proiect pp\proiectpp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdint.h>
+	<string.h>
+
+1546429309 d:\informatica\proiecte\manipulare de imagini\proiect pp\proiectpp\criptaredecriptare.h
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<stdint.h>
+	<string.h>
+
+1546429430 d:\informatica\proiecte\manipulare de imagini\proiect pp\proiectpp\patternmatching.h
+	"CriptareDecriptare.h"
+

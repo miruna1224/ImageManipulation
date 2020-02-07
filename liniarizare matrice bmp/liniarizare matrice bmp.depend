@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1544703426 source:d:\informatica\proiecte\manipulare de imagini\liniarizare matrice bmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdint.h>
+
